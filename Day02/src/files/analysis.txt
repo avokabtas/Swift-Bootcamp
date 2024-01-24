@@ -1,0 +1,44 @@
+# Words
+QA - 5
+as - 3
+Worked - 3
+Java - 2
+and - 2
+Male - 1
+petrov@gmail.com - 1
+higher - 1
+I - 1
+be - 1
+Free - 1
+info - 1
+Company" - 1
+I'm - 1
+2008-2012 - 1
+Tinkoff - 1
+block - 1
+Petr - 1
+to - 1
+2013-2020 - 1
+Sber - 1
+experience - 1
+Candidate - 1
+2020-2023 - 1
+10.10.1993 - 1
+2012-2013 - 1
+OOO - 1
+a - 1
+specialist. - 1
+love - 1
+work. - 1
+Petrovich - 1
+programmer - 1
+Education - 1
+Studied - 1
+Job - 1
+Petrov - 1
+my - 1
+"Good - 1
+
+# Matched tags
+Java
+QA

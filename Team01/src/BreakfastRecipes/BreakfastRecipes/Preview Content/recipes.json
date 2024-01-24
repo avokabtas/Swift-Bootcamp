@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "title": "Breakfast Tostadas",
+        "description": "I love a simple but crazy delicious breakfast, and these tostadas are just that. I make fresh tostadas from corn tortillas, which always taste better to me and take very little effort, but you can always buy tostadas instead and save yourself a step in the morning.",
+        "info": [
+            "YIELDS: 6 serving(s)",
+            "PREP TIME: 10 mins",
+            "TOTAL TIME: 40 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/breakfast-tostadas-1-1658355728.jpeg?crop=1.00xw:0.737xh;0,0.148xh&resize=980:*",
+        "ingredients": [
+            "6 small corn tortillas",
+            "2 tbsp. extra-virgin olive oil, divided Kosher salt",
+            "1 (15-oz.) can black beans, rinsed and drained",
+            "3 tbsp. water",
+            "1 c. shredded pepper jack cheese",
+            "1 avocado, halved and pitted",
+            "Juice of 1/2 lime",
+            "2 tbsp. chopped fresh cilantro",
+            "Freshly ground black pepper",
+            "6 large eggs",
+            "Pickled jalapeños, pickled red onions, and salsa, for serving"
+        ],
+        "steps": [
+            "Preheat oven to 400°. On a large baking sheet, arrange tortillas in a single layer. Lightly brush both sides with 1 tablespoon oil; season with salt. Bake until golden and crispy, about 15 minutes.",
+            "In a small bowl, mash beans with a fork until mostly smooth but with some chunks remaining. Stir in water.",
+            "Divide beans among tortillas and spread in an even layer. Top with cheese. Continue to bake until cheese is melty, about 5 minutes more.",
+            "In another small bowl, smash avocado until smooth. Stir in lime juice and cilantro; season with salt and pepper.",
+            "In a medium nonstick skillet over medium heat, heat remaining 1 tablespoon oil. Working in batches, crack eggs into pan and cook until whites are set, about 3 minutes; season with salt and pepper.",
+            "Top tortillas with smashed avocado, 1 egg, jalapeños, onions, and salsa."
+        ]
+    },
+    
+    {
+        "id": 2,
+        "title": "Best Quiche",
+        "description": "A Delish favorite in the canon of classic recipes, quiche is the versatile dish we turn to again and again for occasions big and small. Our tried-and-tested version perfects every piece of the pie: a soft, creamy filling studded with ham, chives, and Gruyère all inside a crunchy, buttery pie crust.",
+        "info": [
+            "YIELDS: 8 serving(s)",
+            "PREP TIME: 30 mins",
+            "TOTAL TIME: 2 hrs 45 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/delish-230301-quiche-001-ab-web-secondary-64139156e9141.jpg?resize=980:*",
+        "ingredients": [
+            "All-purpose flour, for rolling",
+            "1 batch basic pie dough, chilled",
+            "4 large eggs, 2 separated, 2 whole",
+            "3/4 c. heavy cream",
+            "3/4 c. whole milk",
+            "3/4 tsp. kosher salt",
+            "1/4 tsp. freshly ground black pepper",
+            "6 oz. cooked ham steak, finely chopped (about 1 c.), patted dry",
+            "3 oz. shredded Gruyère (about 1 c.)",
+            "1/4 c. thinly sliced chives"
+        ],
+        "steps": [
+            "On a lightly floured surface, roll pie dough to a 1/4\"-thick round. Lift and carefully transfer to a glass or metal 9\" pie pan, letting sides slump into place (do not stretch).",
+            "Using a sharp knife or kitchen shears, trim around edges of dough, leaving about 1/4\" excess. Fold excess dough underneath dough lying on top rim of pie pan. Using clean fingers, crimp to seal.",
+            "Refrigerate dough until cold, about 30 minutes.",
+            "Place a rack in center of oven; preheat to 375°. Cut a large square piece of foil or parchment and scrunch to wrinkle. Line dough with scrunched foil, then fill to the brim with pie weights, uncooked rice, or dried beans.",
+            "Bake crust until top and sides are dry and set, 20 to 25 minutes. Remove foil with pie weights. In a small bowl, whisk egg whites until blended. Brush over bottom of crust.",
+            "Continue to bake until bottom is dry and set, about 5 minutes more. Let cool completely, at least 30 minutes.",
+            "In a medium bowl, whisk eggs and 2 egg yolks until blended. Whisk in cream, milk, salt, and pepper until combined.",
+            "Spread ham and cheese across bottom of crust. Top with chives. Gently pour egg mixture over top.",
+            "Bake quiche until filling is puffed and set with just a slight jiggle in the middle when pan is shaken, 30 to 35 minutes. Let cool. Slice and serve at room temperature."
+        ]
+    },
+    
+    {
+        "id": 3,
+        "title": "Cranberry-Mimosa Breakfast Cake",
+        "description": "If mimosas are your thing, stop here! If they aren’t, you should still stick around. Cranberries, oranges, and bubbly Prosecco incorporated into a tender cake? And for breakfast too? This is exactly what cranberry-mimosa breakfast cake dreams are made of.",
+        "info": [
+            "YIELDS: 24 serving(s)",
+            "PREP TIME: 25 mins",
+            "TOTAL TIME: 2 hrs 30 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/cranberry-mimosa-breakfast-cake-lead-64adb4175d9c6.jpg?resize=1200:*",
+        "ingredients": [
+            "Cooking spray",
+            "1 c. (2 sticks) unsalted butter, softened",
+            "1 3/4 c. (350 g.) granulated sugar, divided, plus more for serving",
+            "2 tbsp. finely grated orange zest (from about 2 large navel oranges), divided, plus more for serving",
+            "2 large eggs",
+            "2 large egg yolks",
+            "4 c. (480 g.) cake flour",
+            "2 1/2 tsp. baking powder",
+            "1 tsp. kosher salt",
+            "1/2 tsp. baking soda",
+            "1 c. fresh orange juice (from about 2 large navel oranges)",
+            "1/2 c. plain Greek yogurt",
+            "1/2 c. brut Prosecco",
+            "12 oz. fresh or frozen cranberries (about 3 cups), divided"
+        ],
+        "steps": [
+            "Preheat oven to 350°. Grease a 13\"x9\" baking pan with cooking spray. Line pan with parchment, leaving a 2\" overhang on both long sides. Grease parchment with cooking spray.",
+            "In the large bowl of a stand mixer fitted with the paddle attachment (or in a large bowl using a handheld mixer), beat butter and 1 1/2 cups granulated sugar on medium-high speed until light and fluffy, about 5 minutes. Scrape down bowl. Add 1 tablespoon orange zest and beat on medium-low speed just until combined. Add eggs and egg yolks, one at a time, beating to blend after each addition.",
+            "In a medium bowl, whisk flour, baking powder, salt, and baking soda. Add half of dry ingredients and beat on low speed just until combined. Add orange juice and yogurt and beat on medium speed until most of the liquid is incorporated. Add Prosecco and remaining dry ingredients and beat on low speed until just incorporated; it’s okay if there are a couple small lumps. Scrape bottom of bowl to ensure there are no dry spots. Fold in 2 cups cranberries.",
+            "Pour batter into prepared pan and sprinkle remaining 1 cup cranberries on top. In a small bowl, combine 1/4 cup sugar and 1 tablespoon orange zest. Sprinkle over top of batter.",
+            "Bake cake until golden brown and a tester inserted into the center comes out clean, 50 to 55 minutes. Let cool. Sprinkle with more sugar and orange zest."
+        ]
+    },
+    
+    {
+        "id": 4,
+        "title": "Apple Bread Pudding",
+        "description": "On a brisk fall day, there’s nothing better than a bowl of apple bread pudding. Filled with juicy caramelized apples and finished with a crunchy turbinado sugar topping, this warm and comforting dessert is practically the definition of fall comfort food.",
+        "info": [
+            "YIELDS: 12 serving(s)",
+            "PREP TIME: 15 mins",
+            "TOTAL TIME: 2 hrs 15 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/del079923-apple-bread-pudding-203-eb-lead-64adb228648b2.jpg?resize=1200:*",
+        "ingredients": [
+            "1 lb. challah bread, cut into 1\" cubes (about 12 c.)",
+            "3 large eggs",
+            "2 large egg yolks",
+            "3/4 c. (160 g.) light brown sugar, divided",
+            "1 1/2 c. heavy cream",
+            "1 1/2 c. whole milk",
+            "1 tbsp. pure vanilla extract",
+            "1 tsp. ground cinnamon",
+            "1/2 tsp. plus 1/8 tsp. kosher salt, divided",
+            "3 tbsp. unsalted butter, plus more for dish",
+            "1 1/2 lb. Granny Smith apples (about 3 medium), peeled, cored, cut into 3/4\" cubes",
+            "1/2 c. dark raisins",
+            "2 tbsp. turbinado sugar (optional)"
+        ],
+        "steps": [
+            "Preheat oven to 200°. Spread bread in a single layer between 2 rimmed baking sheets. Bake until dry but not crunchy, about 20 minutes. Let cool. Increase oven temperature to 325°.",
+            "Meanwhile, in a large bowl, whisk eggs and egg yolks until combined. Whisk in 1/2 cup brown sugar until no lumps remain. Add cream, milk, vanilla, cinnamon, and 1/2 teaspoon salt and whisk until combined. Add bread and toss to combine. Cover bowl and let sit 30 minutes.",
+            "While bread soaks, in a large skillet over medium heat, melt butter. Add apples and sprinkle with remaining 1/4 cup brown sugar. Cook, stirring occasionally, until apples are just starting to get tender, 7 to 8 minutes. Increase heat to medium-high and continue to cook, stirring frequently, until apples are golden brown and tender, 4 to 5 minutes more. Remove from heat and stir in raisins and remaining 1/8 teaspoon salt.",
+            "Butter a 13\"x-9\" baking dish. Add half of custardy bread to prepared dish and scatter with half of apple mixture. Spread remaining custardy bread on top and top with remaining apple mixture, pressing apples down into top bread layer. Sprinkle with turbinado sugar (if using).",
+            "Loosely cover pan with foil and bake bread pudding 30 minutes. Uncover and continue to bake until crisp and golden brown on top, 15 to 20 minutes more. Let cool at least 30 minutes before serving.",
+            "Make Ahead: Bread pudding can be made 2 days ahead. Tightly cover and refrigerate. Bread pudding can be assembled, unbaked, 1 day ahead. Tightly cover and refrigerate."
+        ]
+    },
+    
+    {
+        "id": 5,
+        "title": "Easy Overnight Oats",
+        "description": "They’re an easy, no-bake version of the classic breakfast that only takes a few minutes to prepare. Prep them the night before, tuck them into your fridge to soak, and you’ll have a chilled, creamy, on-the-go breakfast waiting for you in the morning.",
+        "info": [
+            "YIELDS: 2 serving(s)",
+            "PREP TIME: 5 mins",
+            "TOTAL TIME: 8 hrs"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/overnightoats-secondary-643d7767b2925.jpeg?resize=980:*",
+        "ingredients": [
+            "1 c. old-fashioned oats",
+            "2 tsp. chia seeds",
+            "1/4 tsp. ground cinnamon",
+            "Pinch of kosher salt",
+            "1 c. dairy or non-dairy milk",
+            "1/2 c. plain Greek yogurt",
+            "1 tbsp. honey",
+            "Peanut butter, jam, chopped walnuts, fresh fruit, and/or cacao nibs, for topping (optional)"
+        ],
+        "steps": [
+            "In a medium bowl or large glass container, combine oats, chia seeds, cinnamon, and salt. Add milk, yogurt, and honey and stir to combine. Cover and refrigerate overnight.",
+            "When ready to serve, stir oats and top with desired toppings.",
+            "Make Ahead: Oats (without toppings) can be made 5 days ahead. Keep refrigerated."
+        ]
+    },
+    
+    {
+        "id": 6,
+        "title": "Frittata",
+        "description": "Quiche’s less-fussy cousin, frittatas are the answer to almost every meal dilemma. Looking to get creative with your leftovers? Veggies going bad in your fridge? Home late and craving a simple breakfast-for-dinner recipe? Say it with us: frittata, frittata, frittata.",
+        "info": [
+            "YIELDS: 6 serving(s)",
+            "PREP TIME: 15 mins",
+            "TOTAL TIME: 40 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/frittata-secondary-645d02164d070.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "ingredients": [
+            "8 large eggs",
+            "3/4 c. shredded mozzarella",
+            "1/3 c. heavy cream",
+            "Kosher salt",
+            "Freshly ground black pepper",
+            "Pinch of red pepper flakes",
+            "2 tbsp. extra-virgin olive oil",
+            "1 shallot, finely chopped",
+            "3 cloves garlic, finely chopped",
+            "8 oz. baby bella mushrooms, sliced",
+            "3 c. baby spinach",
+            "1/2 c. ricotta"
+        ],
+        "steps": [
+            "Preheat oven to 375°. In a medium bowl, whisk eggs, mozzarella, and cream; season with salt, black pepper, and red pepper.",
+            "In a large ovenproof skillet over medium heat, heat oil. Add shallot and garlic and cook, stirring occasionally, until shallot is translucent, about 5 minutes. Add mushrooms and cook, stirring occasionally, until softened, about 5 minutes more. Add spinach and cook, stirring frequently, until wilted, about 2 minutes; season with salt and black pepper.",
+            "Pour egg mixture into pan over vegetables. Dollop with ricotta.",
+            "Bake frittata until eggs are just set and edges are golden brown, about 12 minutes."
+        ]
+    },
+    
+    {
+        "id": 7,
+        "title": "Best Homemade Pancakes",
+        "description": "On the hunt for the perfect homemade pancake recipe? Well, we’ve got good news for you—your search stops here.",
+        "info": [
+            "YIELDS: 3 - 4 serving(s)",
+            "PREP TIME: 10 mins",
+            "TOTAL TIME: 35 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/pancakes-lead-64c95a0412264.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "ingredients": [
+            "1 1/2 c. (180 g.) all-purpose flour",
+            "1 tbsp. granulated sugar",
+            "2 tsp. baking powder",
+            "1 tsp. kosher salt",
+            "1 1/3 c. whole milk",
+            "1 large egg",
+            "1 tsp. pure vanilla extract",
+            "2 tbsp. melted unsalted butter, plus more, softened, for cooking and serving",
+            "Maple syrup, for serving"
+        ],
+        "steps": [
+            "In a medium bowl, whisk flour, granulated sugar, baking powder, and salt. In a large bowl, whisk milk, egg, and vanilla. While whisking, stream in melted butter and whisk to combine.",
+            "Gently fold dry ingredients into milk mixture until just combined (do not overmix; some lumps are okay).",
+            "Preheat a griddle or other large heavy skillet over medium heat until hot but not scorching, 2 to 3 minutes.",
+            "Melt enough butter to cover surface of griddle, then pour about 1/4 cup batter onto griddle. Cook pancake until bubbles form on top and sides start to lift from pan, 2 to 3 minutes. Flip and cook until bottom is golden brown and pancake is fluffy, 2 to 3 minutes. Transfer to a wire rack. Wipe off griddle, then repeat with more butter and remaining batter (you should get about 10 pancakes).",
+            "Divide pancakes among plates. Serve with butter and syrup."
+        ]
+    },
+    
+    {
+        "id": 8,
+        "title": "Peanut Butter Banana Smoothie",
+        "description": "Smoothies are one of the easiest and best ways to ensure you are having the most important meal of the day: breakfast.",
+        "info": [
+            "YIELDS: 1 serving(s)",
+            "PREP TIME: 5 mins",
+            "TOTAL TIME: 5 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/peanut-butter-banana-smoothie-lead-64e6355ef32bd.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "ingredients": [
+            "2 small bananas or 1 large",
+            "1 large banana, peeled, halved and frozen",
+            "1 c. unsweetened almond milk",
+            "2 tbsp. peanut butter (preferably natural)",
+            "2 tsp. honey",
+            "1/8 tsp. pure vanilla extract",
+            "1/8 tsp. ground cinnamon, plus more for topping",
+            "sliced banana for topping"
+        ],
+        "steps": [
+            "Combine all ingredients in a blender and blend until smooth."
+        ]
+    },
+    
+    {
+        "id": 9,
+        "title": "Green Smoothie",
+        "description": "On busy mornings, we crave easy, quick, and healthy breakfasts, like our overnight oats or chia pudding. But, for those mornings when we really need to get a boost of greens, we turn to this perfect green smoothie.",
+        "info": [
+            "YIELDS: 1 serving(s)",
+            "PREP TIME: 5 mins",
+            "TOTAL TIME: 5 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/green-smoothie-lead-64d54a0dc0944.jpg?resize=1200:*",
+        "ingredients": [
+            "1 1/2 c. unsweetened almond milk",
+            "1 c. chopped spinach (fresh or frozen)",
+            "1/2 c. chopped kale (fresh or frozen)",
+            "1 medium banana",
+            "2 tbsp. almond butter",
+            "1 tbsp. chia seeds",
+            "2 tsp. honey"
+        ],
+        "steps": [
+            "Combine all ingredients in a blender and blend until smooth."
+        ]
+    },
+    
+    {
+        "id": 10,
+        "title": "Pumpkin Waffles",
+        "description": "These easy pumpkin waffles are so wonderfully delicious and perfectly spiced.",
+        "info": [
+            "YIELDS: 7-8 serving(s)",
+            "PREP TIME: 10 mins",
+            "TOTAL TIME: 40 mins"
+        ],
+        "image": "https://hips.hearstapps.com/hmg-prod/images/delish-pumpkinwaffles-ql-7598-1-1595530274.jpg?crop=1.00xw:0.667xh;0,0.0284xh&resize=980:*",
+        "ingredients": [
+            "1 1/2 c. all-purpose flour",
+            "2 tsp. baking powder",
+            "1 tsp. baking soda",
+            "1 tsp. ground cinnamon",
+            "1 tsp. ground nutmeg",
+            "1/2 tsp. ground ginger",
+            "1/2 tsp. kosher salt",
+            "2 large eggs",
+            "1/4 c. packed light brown sugar",
+            "1 c. canned pumpkin puree",
+            "1 1/2 c. whole buttermilk",
+            "6 tbsp. unsalted butter, melted and cooled",
+            "Pure maple syrup and extra butter, for serving, optional"
+        ],
+        "steps": [
+            "In a large bowl, whisk together flour, baking powder, baking soda, cinnamon, nutmeg, ginger, and salt.",
+            "In a medium-sized bowl, whisk together eggs, brown sugar, pumpkin puree, buttermilk, and melted butter until everything is well combined. Pour wet ingredients into flour mixture and stir until fully combined.",
+            "Heat up waffle maker according to manufacturer's instructions. Once waffle maker is hot, lightly spray with cooking spray and pour batter in, leaving a 1-inch border as batter will spread out.",
+            "Cook waffles until golden and crispy, about 3 to 5 minutes depending on waffle maker. Place cooked waffles onto a plate and repeat with remaining batter."
+        ]
+    }
+]

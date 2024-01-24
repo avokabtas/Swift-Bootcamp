@@ -1,0 +1,28 @@
+# Candidate info
+Petrov Petr Petrovich
+QA
+Male
+10.10.1993
+petrov@gmail.com
+
+# Education
+higher
+2008-2012
+Studied to be a programmer
+
+# Job experience
+##
+2012-2013
+OOO "Good Company"
+Worked as QA
+##
+2013-2020
+Tinkoff
+Worked as QA and Java
+##
+2020-2023
+Sber
+Worked as QA and Java
+
+# Free block
+I'm QA specialist. I love my work.
