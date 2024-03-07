@@ -76,6 +76,12 @@
  - разработка слоя получения данных
  - реализация реактивной связи UI и данных
 
+### Вид приложения - Team00, Team01
+
+<img src="images/mockup.png" alt="Image" width="800" height="455">
+<img src="images/mockup2.png" alt="Image" width="800" height="455">
+
+
 </details>
 
 
@@ -151,5 +157,10 @@ The bootcamp takes place in an intensive format: you need to complete tasks ever
  - network layer development
  - database layer development
  - implementation of UI and data reactive connection
+
+ ### View Application - Team00, Team01
+
+<img src="images/mockup.png" alt="Image" width="800" height="455">
+<img src="images/mockup2.png" alt="Image" width="800" height="455">
  
 </details>
